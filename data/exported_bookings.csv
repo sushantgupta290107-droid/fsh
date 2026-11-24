@@ -1,0 +1,2 @@
+id,request_id,customer_id,provider_id,agreed_amount,status,booked_date
+BK-SEED-1,REQ-001,CUST-001,PROV-001,420.00,CONFIRMED,2026-11-24

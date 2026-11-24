@@ -1,0 +1,5 @@
+id,customer_id,title,description,category,budget,status,created_at
+REQ-001,CUST-001,150 Event Chairs,Folding chairs needed for garden reception,Event Rentals,500.0,OPEN,2026-11-24
+REQ-002,CUST-002,Kitchen Sink Pipe Leak,Drain pipe leaking under sink,Plumbing,150.0,OPEN,2026-11-24
+REQ-003,CUST-001,Living Room Painting,Two coats acrylic emulsion on 400sqft room,Painting,350.0,OPEN,2026-11-24
+REQ-INVALID,CUST-003,Corrupted Row,Bad budget,Carpentry,INVALID_BUDGET,OPEN,2026-11-24
